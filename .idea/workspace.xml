@@ -23,6 +23,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.animal_habitat.executor": "Run",
     "Python.animal_sounds_dict.executor": "Run",
     "Python.book_auth_dict.executor": "Run",
     "Python.city_population_dict.executor": "Run",
