@@ -45,6 +45,7 @@
     "Python.product_price.executor": "Run",
     "Python.river.executor": "Run",
     "Python.software_comp_hq.executor": "Run",
+    "Python.softwares.executor": "Run",
     "Python.space_mission.executor": "Run",
     "Python.sports_players.executor": "Run",
     "Python.student_grade_dict.executor": "Run",
