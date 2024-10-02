@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85d14f7b-00a3-4359-9b99-25289ac3fd51" name="Changes" comment="" />
+    <list default="true" id="85d14f7b-00a3-4359-9b99-25289ac3fd51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,11 +38,13 @@
     "Python.continent.executor": "Run",
     "Python.country_capital.executor": "Run",
     "Python.currency.executor": "Run",
+    "Python.dog_breed.executor": "Run",
     "Python.element_symbols.executor": "Run",
     "Python.festival_dates.executor": "Run",
     "Python.flower_meaning.executor": "Run",
     "Python.fruit_color_dict.executor": "Run",
     "Python.game_platform.executor": "Run",
+    "Python.historical_event.executor": "Run",
     "Python.holiday.executor": "Run",
     "Python.movie_director_dict.executor": "Run",
     "Python.movie_genre.executor": "Run",
