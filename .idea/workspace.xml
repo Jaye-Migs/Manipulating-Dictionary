@@ -34,6 +34,7 @@
     "Python.fruit_color_dict.executor": "Run",
     "Python.movie_director_dict.executor": "Run",
     "Python.software_comp_hq.executor": "Run",
+    "Python.space_mission.executor": "Run",
     "Python.sports_players.executor": "Run",
     "Python.student_grade_dict.executor": "Run",
     "Python.university_courses.executor": "Run",
