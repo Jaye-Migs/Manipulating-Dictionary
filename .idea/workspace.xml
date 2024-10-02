@@ -48,6 +48,7 @@
     "Python.game_platform.executor": "Run",
     "Python.historical_event.executor": "Run",
     "Python.holiday.executor": "Run",
+    "Python.job_salaries.executor": "Run",
     "Python.movie_director_dict.executor": "Run",
     "Python.movie_genre.executor": "Run",
     "Python.music_albums.executor": "Run",
