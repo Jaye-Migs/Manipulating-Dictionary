@@ -35,6 +35,7 @@
     "Python.element_symbols.executor": "Run",
     "Python.flower_meaning.executor": "Run",
     "Python.fruit_color_dict.executor": "Run",
+    "Python.game_platform.executor": "Run",
     "Python.holiday.executor": "Run",
     "Python.movie_director_dict.executor": "Run",
     "Python.movie_genre.executor": "Run",
