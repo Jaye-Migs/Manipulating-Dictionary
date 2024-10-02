@@ -25,6 +25,7 @@
   "keyToString": {
     "Python.animal_habitat.executor": "Run",
     "Python.animal_sounds_dict.executor": "Run",
+    "Python.app_rating.executor": "Run",
     "Python.book_auth_dict.executor": "Run",
     "Python.city_population_dict.executor": "Run",
     "Python.company_ceo.executor": "Run",
@@ -35,6 +36,7 @@
     "Python.fruit_color_dict.executor": "Run",
     "Python.holiday.executor": "Run",
     "Python.movie_director_dict.executor": "Run",
+    "Python.river.executor": "Run",
     "Python.software_comp_hq.executor": "Run",
     "Python.space_mission.executor": "Run",
     "Python.sports_players.executor": "Run",
