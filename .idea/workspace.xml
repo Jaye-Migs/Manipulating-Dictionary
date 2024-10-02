@@ -26,6 +26,7 @@
     "Python.animal_sounds_dict.executor": "Run",
     "Python.book_auth_dict.executor": "Run",
     "Python.city_population_dict.executor": "Run",
+    "Python.continent.executor": "Run",
     "Python.country_capital.executor": "Run",
     "Python.element_symbols.executor": "Run",
     "Python.fruit_color_dict.executor": "Run",
