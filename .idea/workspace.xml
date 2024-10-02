@@ -39,6 +39,7 @@
     "Python.holiday.executor": "Run",
     "Python.movie_director_dict.executor": "Run",
     "Python.movie_genre.executor": "Run",
+    "Python.planet_distance.executor": "Run",
     "Python.river.executor": "Run",
     "Python.software_comp_hq.executor": "Run",
     "Python.space_mission.executor": "Run",
