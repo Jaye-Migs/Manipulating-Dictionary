@@ -48,6 +48,7 @@
     "Python.movie_genre.executor": "Run",
     "Python.phone_model.executor": "Run",
     "Python.planet_distance.executor": "Run",
+    "Python.plant_type.executor": "Run",
     "Python.product_price.executor": "Run",
     "Python.river.executor": "Run",
     "Python.software_comp_hq.executor": "Run",
