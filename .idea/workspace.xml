@@ -26,6 +26,7 @@
     "Python.animal_habitat.executor": "Run",
     "Python.animal_sounds_dict.executor": "Run",
     "Python.app_rating.executor": "Run",
+    "Python.artist_song.executor": "Run",
     "Python.athlete_achievement.executor": "Run",
     "Python.book_auth_dict.executor": "Run",
     "Python.car_engine.executor": "Run",
