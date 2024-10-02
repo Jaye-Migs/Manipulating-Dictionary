@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85d14f7b-00a3-4359-9b99-25289ac3fd51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/flower_meaning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="85d14f7b-00a3-4359-9b99-25289ac3fd51" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +33,7 @@
     "Python.element_symbols.executor": "Run",
     "Python.flower_meaning.executor": "Run",
     "Python.fruit_color_dict.executor": "Run",
+    "Python.holiday.executor": "Run",
     "Python.movie_director_dict.executor": "Run",
     "Python.software_comp_hq.executor": "Run",
     "Python.space_mission.executor": "Run",
@@ -84,6 +82,11 @@
           <url>file://$PROJECT_DIR$/space_mission.py</url>
           <line>14</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flower_meaning.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
